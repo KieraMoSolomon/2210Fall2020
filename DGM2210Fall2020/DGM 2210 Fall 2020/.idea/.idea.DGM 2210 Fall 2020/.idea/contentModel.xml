@@ -5,6 +5,8 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Anims" t="Include">
+          <e p="AnimStates.cs" t="Include" />
+          <e p="CharacterBrain.cs" t="Include" />
           <e p="StateBehaviour.cs" t="Include" />
         </e>
       </e>
