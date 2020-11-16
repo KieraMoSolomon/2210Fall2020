@@ -11,7 +11,7 @@
 /[Mm]emoryCaptures/
 .DS_Store
 .idea/
-/Asphalt_materials/
+[Aa]sphalt_materials/
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
